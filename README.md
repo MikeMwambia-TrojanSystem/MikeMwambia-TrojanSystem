@@ -37,7 +37,7 @@ I love challenges and I have been working with the following tools since I got i
 
 SQL for Node Js
 
-Let's build a bitcoin backed banking infrastructure for el-savador in this <a href='https://github.com/GaloyMoney/galoy.git'>repo</a>
+Let's build a bitcoin backed banking infrastructure for El Salvadaor in this <a href='https://github.com/GaloyMoney/galoy.git'>repo</a>
 
 ---
  📗 Currently learning
