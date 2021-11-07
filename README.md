@@ -53,7 +53,7 @@ On any  web engineering / software development with a preference of block chain 
 
 📫 How to reach me: ...
 
-kupeupwork@gmail.com
+nodebeast@protonmail.com
 
 ⚡ Fun fact: ...
 
