@@ -42,7 +42,7 @@ Let's build a bitcoin backed banking infrastructure for El Salvadaor in this <a 
 ---
  📗 Currently learning
 
- DevOps and Site Reliability Engineering at <a href="https://training.linuxfoundation.org/training/devops-bootcamp/">Linux Foundation Bootcamp</a>
+ <a href="https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b">Buildspace</a>
  
  
 ---
