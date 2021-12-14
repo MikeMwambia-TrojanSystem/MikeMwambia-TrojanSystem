@@ -34,7 +34,7 @@ I love challenges and I have been working with the following tools since I got i
 <img src='https://img.shields.io/badge/Truffle-Solidty-blue'>
 <img src='https://img.shields.io/badge/EVM-Smart%20Contracts-blue'><br>
 
-<a href="https://mikemwambia-trojansystem.github.io/DFMS-Mock-Up-Demo/login">Mock Up for document management system on IPFS:</a>
+<a href="https://www.countyassembliesofkenya.com/">Document management system on IPFS:</a>
 
 <a href="https://mikemwambia-trojansystem.github.io/Mock-up-Trade-Demo/">Mock up for crowdfunding for consumer goods:</a>
 
