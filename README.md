@@ -40,7 +40,7 @@ I love challenges and I have been working with the following tools since I got i
 
 SQL for Node Js
 
-Contributing to  <a href='https://github.com/InstaLiqDAO'>repo</a>
+Contributing to  <a href='https://github.com/InstaLiqDAO'>InstaLiqDao - Instant Liquidity Swap</a>
 
 ---
  📗 Currently learning
