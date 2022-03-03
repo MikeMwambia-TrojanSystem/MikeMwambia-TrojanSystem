@@ -38,6 +38,8 @@ I love challenges and I have been working with the following tools since I got i
 
 <a href="https://mikemwambia-trojansystem.github.io/Mock-up-Trade-Demo/">Mock up for crowdfunding for consumer goods:</a>
 
+Projects at Dabble Lab
+
 SQL for Node Js
 
 Contributing to  <a href='https://github.com/InstaLiqDAO'>InstaLiqDao - Instant Liquidity Swap</a>
@@ -45,7 +47,7 @@ Contributing to  <a href='https://github.com/InstaLiqDAO'>InstaLiqDao - Instant 
 ---
  📗 Currently learning
 
- <a href="https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b">Buildspace</a>
+ <a href="https://trainingportal.linuxfoundation.org/learn/course/nodejs-application-development-lfw211/writing-unit-tests/writing-unit-tests?page=2">All things JS , TS , Node JS , React etc</a>
  
  
 ---
