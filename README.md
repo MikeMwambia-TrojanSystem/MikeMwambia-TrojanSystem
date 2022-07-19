@@ -1,8 +1,8 @@
 
 ### Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Michael , I am a software engineer who likes to solve problems using technology.<br>
-I love challenges and I have been working with the following tools since I got into software development
+Mike here a developer who likes to solve problems using technology.<br>
+I love challenges and I have been working with the following tools since I got into software development among others.
 
 ###
 <p>
@@ -27,42 +27,11 @@ I love challenges and I have been working with the following tools since I got i
   <img src='https://img.shields.io/badge/DEVOps-AWS--Code%20pipeline-orange'>
 </p>
 
----
-
-🔭 I’m currently working on ...
-
-<img src='https://img.shields.io/badge/Truffle-Solidty-blue'>
-<img src='https://img.shields.io/badge/EVM-Smart%20Contracts-blue'><br>
-
-<a href="https://www.countyassembliesofkenya.com/">Document management system on IPFS:</a>
-
-<a href="https://mikemwambia-trojansystem.github.io/Mock-up-Trade-Demo/">Mock up for crowdfunding for consumer goods:</a>
-
-Projects at Dabble Lab
-
-SQL for Node Js
-
-Contributing to  <a href='https://github.com/InstaLiqDAO'>InstaLiqDao - Instant Liquidity Swap</a>
-
----
- 📗 Currently learning
-
- <a href="https://trainingportal.linuxfoundation.org/learn/course/nodejs-application-development-lfw211/writing-unit-tests/writing-unit-tests?page=2">All things JS , TS , Node JS , React etc</a>
- 
- 
----
-
-👯 I’m looking to collaborate on ...
-
-On any  web engineering / software development with a preference of block chain technologies.
-
-📫 How to reach me: ...
-
-nodebeast@protonmail.com
+Dabbling at Dabble Labs.
 
 ⚡ Fun fact: ...
 
-The roar of a lion comes from it's stomach and when it's constipated it can't roar..🦁
+The roar of a lion comes from it's stomach..🦁
 
 ---
 
