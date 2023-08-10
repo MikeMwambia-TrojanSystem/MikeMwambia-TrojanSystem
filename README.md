@@ -27,8 +27,6 @@ I love challenges and I have been working with the following tools since I got i
   <img src='https://img.shields.io/badge/DEVOps-AWS--Code%20pipeline-orange'>
 </p>
 
-Dabbling at Dabble Labs.
-
 ⚡ Fun fact: ...
 
 The roar of a lion comes from it's stomach..🦁
